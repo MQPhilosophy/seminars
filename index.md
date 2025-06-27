@@ -9,10 +9,10 @@ TBA
 ---
 
 ## 5 August
-### [Tyler Paytas](https://www.tylerpaytas.com/) (Griffith University)
+### [Tyler Paytas](https://www.tylerpaytas.com/) (Australian Catholic University)
 ### If it Pleases the Gods: The Socratic Piety of Epictetus
 
-TBA 
+Epictetus’ Stoicism is distinguished by the centrality of Socrates, who serves as both role model and authorizer of the core teachings in the Discourses. A second distinctive feature is Epictetus’ unique conception of piety and the central importance he assigns to this virtue. The primary aim of this paper is to elucidate Epictetian piety and its Socratic origins. Epictetian piety comprises three attitudes inspired by the life and teachings of Socrates: optimism, gratitude, and obedience. After outlining the nature and interrelations of these attitudes, I explain how Epictetian piety can be manifested independent of religious belief. I argue that this form of piety is a neglected virtue that can promote human flourishing and ethical living in a modern secular context. 
 
 ---
 
@@ -26,9 +26,9 @@ TBA
 
 ## 19 August
 ### [Simine Vazire](https://www.simine.com/) (University of Melbourne)
-### TBA
+### Journal prestige can and should be earned
 
-TBA
+With prominent threats to trust in science around the world, it is especially important to make clear why scientific institutions, including journals, are worthy of trust. Too often, journals’ reputations are unearned—based on flawed metrics such as impact factors, or simply the inertia of prestige. But journal prestige can and should be earned. Journals that invest in and facilitate both pre- and post-publication quality checks, error detection, and correction are the ones that deserve the most trust, and the most prestige.
 
 ---
 
@@ -98,10 +98,8 @@ TBA
 
 TBA
 
----
-
 ## 4 November
-### [TBA]() (Macquarie University)
+### [Joanne Faulkner](https://researchers.mq.edu.au/en/persons/joanne-faulkner) (Macquarie University)
 ### TBA
 
 TBA
