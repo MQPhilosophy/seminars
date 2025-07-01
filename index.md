@@ -42,9 +42,9 @@ TBA
 
 ## 2 September
 ### [Marc Cheong](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong) (University of Melbourne) 
-### TBA
+### From (red) pandas* to vibe coding: building software for/by/with philosophers
 
-TBA
+Software packages to build networks, analyse corpora, and make informative graphics are no longer in the exclusive domain of data scientists. From experimental philosophy, to social epistemology, to philosophy of fame-and-celebrity, philosophers and cross-disciplinary researchers increasingly find utility in these packages. Making software open source is common practice, allowing people to build on existing studies, for the public good. In this talk, I will discuss my experiences building, maintaining, testing, and deploying these packages with colleagues at the Digital Trust Lab. This ranges from the exciting (launching a Python package any philosopher can install in less than 20 seconds), to the mind-numbing (having to create a myriad of test cases and documentation for adding one single piece of functionality!), to the pedantic (not updating a code base without following a series of audits). More importantly, I will discuss challenges and considerations on different approaches to take, tradeoffs between complexity/explainability and accuracy, and the kettle of fish that is Generative AI and "vibe coding". * pandas is a common Python library, which, sadly, leaves me red in the face every time I use the wrong syntax.
 
 ---
 
