@@ -2,9 +2,9 @@
 
 ## 29 July
 ### [Isis Urgell](https://philpeople.org/profiles/isis-urgell-2) (Monash University)
-### TBA 
+### Vicious BERT. An LLM to identify epistemic vices on polarized social media 
 
-TBA
+There is growing evidence that indicates that individuals with conservative ideology are more likely to believe in conspiracy theories, endorse and spread misinformation and have lower trust on science. The asymmetry thesis proposes that conservatives present distinct cognitive features that makes them more susceptible to politically motivated reasoning and hence to anti science attitudes. In this work I analyse this problem through a virtue/vice epistemology framework. I contain that from the perspective of epistemic vices and virtues there is also an ideological asymmetry on how conservatives build their epistemic networks and gather, process and transmit information as a result. Conservative networks are structurally and individually vicious. Structurally they are organized around malicious agents that preclude the exercise of epistemic virtues while fostering ill epistemic practices. Individually, conservative agents tend to be more epistemically vicious which in turn enables a feedback loop with the structural properties of their networks. To explore these points, I focus on social media behaviour, particularly X (Twitter), with posts related to the recent COVID-19 pandemic. I fine-tuned an LLM from the BERT family to classify tweets according to their degree of epistemic viciousness. I propose then to apply this model to a corpus of tweets from different political communities on Twitter USA. I present evidence obtained from the result of network analysis on these communities to account for the structural claim of conservative vs liberal communities. I propose to use the BERT model to compare the presence of epistemic vices at individual level on conservative networks.
 
 ---
 
