@@ -92,6 +92,14 @@ TBA
 
 ---
 
+## 21 October
+### [Annie Sandrussi](https://researchers.mq.edu.au/en/persons/annie-sandrussi) (Macquarie University)
+### Moral Patienthood and the Question of the Polis
+
+TBA
+
+---
+
 ## 28 October
 ### [Wendy Higgins](https://findanexpert.unimelb.edu.au/profile/1102472-wendy-higgins) (Melbourne University)
 ### Fine Attention, Broad Awareness: Avoiding the Cost of Ignorance
