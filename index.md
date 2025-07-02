@@ -17,7 +17,7 @@ Epictetus’ Stoicism is distinguished by the centrality of Socrates, who serves
 ---
 
 ## 12 August
-### [TBA]() (TBA)
+### [Wendy Lipworth & Anson Fehross](https://researchers.mq.edu.au/en/persons/wendy-lipworth) (Macquarie University)
 ### TBA
 
 TBA
@@ -33,7 +33,7 @@ With prominent threats to trust in science around the world, it is especially im
 ---
 
 ## 26 August
-### [TBA]() (TBA)
+### [Adam Hochman](https://researchers.mq.edu.au/en/persons/adam-hochman) (Macquarie University)
 ### TBA 
 
 TBA
