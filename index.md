@@ -49,7 +49,7 @@ Software packages to build networks, analyse corpora, and make informative graph
 ---
 
 ## 9 September
-### [TBA]() (TBA)
+### [Elena Walsh](https://scholars.uow.edu.au/elena-walsh) (University of Wollongong)
 ### TBA
 
 TBA
