@@ -86,9 +86,9 @@ TBA
 
 ## 14 October
 ### [Cristian Larroulet Philippi](https://www.cai.cam.ac.uk/people/dr-cristian-larroulet-philippi) (University of Melbourne)
-### TBA
+### Quantifying the human
 
-TBA
+Quantitative measurement in the human sciences remains both widespread and controversial. Are depression scales, intelligence tests, etc. valid measurement instruments? Do they deliver quantitative or merely ordinal information? I discuss two approaches for understanding practices of quantitative measurement of theoretical attributes. One uses causal notions to characterize dispositional attributes and to understand how they relate to measurement indications. It aims at standard epistemic desiderata in science (discovery, explanation, prediction) and offers good answers to traditional worries about human attributes (namely, are they really quantitative?) and about their measurement instruments (namely, are they valid?). A second approach uses the notion of value(as in Dan Hausman's 2015 Valuing Health) to make sense of quantification practices. This approach does not resemble what scientists think of their measurement practices: it is not designed for the testing of tentative concepts but rather to standardize political decision making. Yet, I argue, this approach is the most plausible candidate for making sense of some human sciences’ measurement practices as quantifying anything. Such is the case for measurements that (i) combine distinct dimensions of the phenomena at stake and (ii) for which we don’t observe serious efforts aiming at embedding such measurements in predictive and explanatory networks. I illustrate with two examples: depression severity (HAMD) and the Human Development Index (HDI).
 
 ---
 
@@ -102,9 +102,9 @@ TBA
 
 ## 28 October
 ### [Wendy Higgins](https://findanexpert.unimelb.edu.au/profile/1102472-wendy-higgins) (Melbourne University)
-### Fine Attention, Broad Awareness: Avoiding the Cost of Ignorance
+### Rethinking Psychological Measurement Validity
 
-TBA
+Valid measurement is critical for empirical research. Yet, a growing body of literature suggests that validation practices in the psychological sciences are highly inadequate. A lack of clarity about the concept of validity itself has been proposed as a contributing factor to poor validation practices. In this talk, I introduce a concept of measurement validity with three key features that I argue can facilitate improved validation practices in the psychological sciences. The first feature of the proposed concept of validity is that it is restricted to the question of what a test measures. This contrasts with influential guidelines from the American Psychological Association, which state that validity should be ascribed to interpretations of test scores for different test uses. The second feature is that it is based on a necessary, and in principle, sufficient causal condition for valid measurement; and the third feature is that it makes an explicit distinction between the validity potential of measurement procedures in abstracta (e.g., tests) and the realised validity of concrete measurement outcomes (e.g., specific sets of test scores). Considering each feature in turn, I describe the potential benefits and challenges of adopting this concept of validity in the context of psychological measurement.
 
 ## 4 November
 ### [Joanne Faulkner](https://researchers.mq.edu.au/en/persons/joanne-faulkner) (Macquarie University)
