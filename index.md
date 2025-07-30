@@ -34,9 +34,9 @@ With prominent threats to trust in science around the world, it is especially im
 
 ## 26 August
 ### [Adam Hochman](https://researchers.mq.edu.au/en/persons/adam-hochman) (Macquarie University)
-### TBA 
+### Is “Race” Change Possible? 
 
-TBA
+This talk explores the metaphysical possibility of “transraciality.” Most philosophers working on this topic have adopted a social form of what Charles Mills calls objectivism about race. They have argued that transraciality is currently impossible on this basis. I argue that—as Mills himself maintained—social objectivism actually allows for “transraciality,” but that objectivists will be unable to determine the true “race” of many individuals. I compare social objectivist approaches to “transraciality” to the approach entailed by reconstructionist anti-realism about race. For reconstructionists, transraciality is impossible. However, one can racialize oneself differently at different points throughout one’s life, and in different contexts, and some—intentionally or not—end up racialized differently by others. I make the case that, when it comes to the topic of “transraciality,” anti-realist reconstructionism is more explanatory from a theoretical perspective and more desirable from an ethical perspective than social objectivism about race.
 
 ---
 
