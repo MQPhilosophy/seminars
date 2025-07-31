@@ -57,10 +57,10 @@ TBA
 ---
 
 ## 16 September
-### [Bronwyn Finnigan](https://researchportalplus.anu.edu.au/en/persons/bronwyn-finnigan) (ANU)
-### Is the Buddha’s Lucky Throw Unlucky?
+### [TBA]() (TBA)
+### TBA
 
-In Finnigan (2024), I used decision-theoretic tools to argue that the Buddha, in the Apaṇṇaka Sutta, presents a decision-problem under uncertainty about whether to ‘wager’ for karma and rebirth. This, I argued, paralleled Pascal’s Wager for belief in God in several important respects. I also showed that the Buddha resolves this decision-problem using dominance (superdominance, even superduperdominance) reasoning but then raised three objections to the idea that we are rationally required to accept this wager. I nevertheless concluded with a motivational concession: the Buddha's Wager might at least provide one more reason for someone to act well if they need. This is because the two kinds of outcomes the wager envisions – social and karmic – depend on the individual using the view at issue to inform their conduct. This talk explores a challenge to this concession; namely, that it undermines the rationality of the wager by providing a bad reason for acting. Call this the self-undermining objection. The Buddha describes his wager as a “lucky throw” that, when “accepted and undertaken… will lead to welfare and happiness for a long time.” Does accepting this wager actually constitute an “unlucky throw”, one that ultimately undermines the very welfare and happiness the Buddha asserts the wager would bring? I will argue that it is not – at least, not for the reason that it is self-undermining. I will nevertheless conclude that we are still not rationally required to accept the Buddha’s Wager – both for the reasons I provided in 2024 as well as some others.
+TBA
 
 ---
 
