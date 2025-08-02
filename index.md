@@ -57,8 +57,8 @@ TBA
 ---
 
 ## 16 September
-### [TBA]() (TBA)
-### TBA
+### [Caroline West](https://www.sydney.edu.au/arts/about/our-people/academic-staff/caroline-west.html) (University of Sydney)
+### Happiness
 
 TBA
 
