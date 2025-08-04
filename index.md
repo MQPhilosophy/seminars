@@ -50,9 +50,9 @@ Software packages to build networks, analyse corpora, and make informative graph
 
 ## 9 September
 ### [Elena Walsh](https://scholars.uow.edu.au/elena-walsh) (University of Wollongong)
-### TBA
+### Chatbot companions and the new ‘talking cure’
 
-TBA
+As large language models (LLMs) like ChatGPT become deeply embedded in everyday life, users are increasingly turning to them for emotional support. This talk explores this development. It compares the function of chatbot-based therapies against traditional models of psychotherapy, and situates their appeal in context of a global mental health crisis, unequal access to mental healthcare, rising social isolation, and lives increasingly dominated by virtual modes of interaction. It focuses on a key criterion for therapeutic value: the capacity to balance empathic mirroring with, when necessary, a critical or confrontational stance. While LLMs excel at the former, they appear structurally limited in performing the latter, reflecting a broader and well-documented tendency for LLMs to reinforce the status quo, rather than question it. The talk concludes with initial reflections on the potential benefits and risks of these systems in the context of mental healthcare, the kinds of regulatory oversight they may require, and their capacity to both support and disrupt existing and dominant modes of interpersonal engagement.
 
 ---
 
