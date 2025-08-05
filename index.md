@@ -58,9 +58,9 @@ As large language models (LLMs) like ChatGPT become deeply embedded in everyday 
 
 ## 16 September
 ### [Caroline West](https://www.sydney.edu.au/arts/about/our-people/academic-staff/caroline-west.html) (University of Sydney)
-### Happiness
+### Happiness as a psychological good 
 
-TBA
+Theories of happiness generally divide into those that analyse ‘happiness’ as a purely descriptive psychological term, and those that take ‘happiness’ to be an evaluative term roughly synonymous with ‘leading a good life.’ I argue that happiness is most accurately and usefully analysed as a fusion of these. Specifically, happiness is the psychological state, whatever it is, that we ought to seek for its own sake. Substantive first-order debates about the nature of happiness are then best understood as implicit disputes about exactly which of a range of semantically eligible states individuals have most prudential reason to pursue. I argue that this may vary (somewhat) from individual to individual and hence that happiness is differentially realizable: the nature of happiness may differ (somewhat) from person to person. This contrasts with orthodox ‘circumscriptionist’ analyses, according to which there is just one way to be happy.
 
 ---
 
