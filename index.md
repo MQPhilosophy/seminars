@@ -93,10 +93,14 @@ Quantitative measurement in the human sciences remains both widespread and contr
 ---
 
 ## 21 October
-### [Annie Sandrussi](https://researchers.mq.edu.au/en/persons/annie-sandrussi) (Macquarie University)
+### [Wendy Lipworth & Anson Fehross] (Macquarie University)
 ### Moral Patienthood and the Question of the Polis
 
-TBA
+The epistemology of Evidence-Based Medicine (EBM) has traditionally privileged two forms of knowing: the propositional ‘knowledge-that’ derived from systematic reviews and trial data, and the clinician’s practical ‘knowledge-how’. While patient values have been appended to this model, they are typically framed as ethical preferences, serving to guide our practical responses. Our qualitative research into experimental stem-cell therapies, however, suggests that some members of the public harbour an alternative view.
+
+A sizeable minority of our sample appeal to a third, unrecognised form of purported knowledge. We term this ‘knowledge-when’: a capacity to determine when it the evidence is sufficient to move from clinical trials to common practice. In our interviews, participants grounded this claim not in an understanding of statistical evidence, nor in terms of being willing to accept risk, but in the lived experience of their condition—a form of knowing we call ‘nosomathia’. This represents a claim not just to know when it is worth taking a particular risk, but also when there is evidence of risk.
+
+Our presentation will attempt to take this claim seriously, noting that doing so would require reconfiguring EBM’s epistemic architecture to accommodate ‘knowledge-when’ alongside ‘knowledge-that’ and ‘knowledge-how’. This would position the patient as an arbiter of epistemic standards, alongside their expanded role as a part of designing the practicalities of research programmes. As we will show, even if one is not inclined to accept the particular epistemology that serves to undergird their responses, such a view does raise interesting questions as to how evidentiary standards ought to be understood in this domain.
 
 ---
 
