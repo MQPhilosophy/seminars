@@ -110,10 +110,4 @@ Our presentation will attempt to take this claim seriously, noting that doing so
 
 Valid measurement is critical for empirical research. Yet, a growing body of literature suggests that validation practices in the psychological sciences are highly inadequate. A lack of clarity about the concept of validity itself has been proposed as a contributing factor to poor validation practices. In this talk, I introduce a concept of measurement validity with three key features that I argue can facilitate improved validation practices in the psychological sciences. The first feature of the proposed concept of validity is that it is restricted to the question of what a test measures. This contrasts with influential guidelines from the American Psychological Association, which state that validity should be ascribed to interpretations of test scores for different test uses. The second feature is that it is based on a necessary, and in principle, sufficient causal condition for valid measurement; and the third feature is that it makes an explicit distinction between the validity potential of measurement procedures in abstracta (e.g., tests) and the realised validity of concrete measurement outcomes (e.g., specific sets of test scores). Considering each feature in turn, I describe the potential benefits and challenges of adopting this concept of validity in the context of psychological measurement.
 
-## 4 November
-### [Joanne Faulkner](https://researchers.mq.edu.au/en/persons/joanne-faulkner) (Macquarie University)
-### TBA
-
-TBA
-
 <!-- > Abstract [TBC] -->
