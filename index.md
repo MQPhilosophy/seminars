@@ -95,5 +95,5 @@ Desires have a puzzling dual character. In one sense, desires are passive. Desir
 ---
 
 ## 2nd June
-### [John Noel Viana](https://findanexpert.unimelb.edu.au/profile/1102472-wendy-higgins](https://researchportalplus.anu.edu.au/en/persons/john-noel-viana/) (The Australian National University)
+### [John Noel Viana](https://researchportalplus.anu.edu.au/en/persons/john-noel-viana/) (The Australian National University)
 ### TBC
