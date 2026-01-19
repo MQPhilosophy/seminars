@@ -1,4 +1,4 @@
-# Schedule for Semester 2, 2025
+# Schedule for Semester 1, 2026
 
 ## XX 
 
