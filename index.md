@@ -68,8 +68,8 @@ This paper introduces the concept of "technoscholasticism" to analyse fundamenta
 ---
 
 ## 5th May
-### [Bronwyn Finnigan](https://researchportalplus.anu.edu.au/en/persons/bronwyn-finnigan/) (ANU)
-### Quantifying the human
+### [Bronwyn Finnigan](https://researchportalplus.anu.edu.au/en/persons/bronwyn-finnigan/) (The Australian National University)
+### TBC
 
 ---
 
@@ -81,10 +81,19 @@ Desires have a puzzling dual character. In one sense, desires are passive. Desir
 
 ---
 
-## 28 October
-### [Wendy Higgins](https://findanexpert.unimelb.edu.au/profile/1102472-wendy-higgins) (Melbourne University)
-### Rethinking Psychological Measurement Validity
+## 19th May
+### [Millicent Churcher](https://staff.acu.edu.au/Staff%20directory?Millicent-Churcher) (Australian Catholic University)
+### TBC
 
-Valid measurement is critical for empirical research. Yet, a growing body of literature suggests that validation practices in the psychological sciences are highly inadequate. A lack of clarity about the concept of validity itself has been proposed as a contributing factor to poor validation practices. In this talk, I introduce a concept of measurement validity with three key features that I argue can facilitate improved validation practices in the psychological sciences. The first feature of the proposed concept of validity is that it is restricted to the question of what a test measures. This contrasts with influential guidelines from the American Psychological Association, which state that validity should be ascribed to interpretations of test scores for different test uses. The second feature is that it is based on a necessary, and in principle, sufficient causal condition for valid measurement; and the third feature is that it makes an explicit distinction between the validity potential of measurement procedures in abstracta (e.g., tests) and the realised validity of concrete measurement outcomes (e.g., specific sets of test scores). Considering each feature in turn, I describe the potential benefits and challenges of adopting this concept of validity in the context of psychological measurement.
 
-<!-- > Abstract [TBC] -->
+---
+
+## 26th May
+### [William Tuckwell](https://arts-ed.csu.edu.au/research/research-groups/paper/team/profiles/members/william-tuckwell) (Charles Sturt University)
+### TBC
+
+---
+
+## 2nd June
+### [John Noel Viana](https://findanexpert.unimelb.edu.au/profile/1102472-wendy-higgins](https://researchportalplus.anu.edu.au/en/persons/john-noel-viana/) (The Australian National University)
+### TBC
