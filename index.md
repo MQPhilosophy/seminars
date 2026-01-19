@@ -6,57 +6,52 @@
 
 ---
 
-## 12 August
-### [Mark Alfano](www.alfanophilosophy.com) (Macquarie University)
-### Slopaganda
+## 3rd March
+### [James Franklin](https://www.unsw.edu.au/staff/james-franklin) (UNSW)
+### Ethics can't do without metaphysics
 
-At least since Francis Bacon, the slogan “knowledge is power” has been used to capture the relationship between decision-making at a group level and information. We know that being able to shape the informational environment for a group is a way to shape their decisions; it is essentially a way to make decisions for them. This paper focuses on strategies that are intentionally, by design, impactful on the decision-making capacities of groups, effectively shaping their ability to take advantage of information in their environment. Among these, the best known are political rhetoric, propaganda, and misinformation. The phenomenon this paper brings out from these is a relatively new strategy, which we call slopaganda. According to The Guardian, News Corp Australia is currently churning out 3000 “local” generative AI (GAI) stories each week. In the coming years, such “generative AI slop” will present multiple knowledge-related (epistemic) challenges. We draw on contemporary research in cognitive science and artificial intelligence to diagnose the problem of slopaganda, describe some recent troubling cases, then suggest several interventions that may help to counter slopaganda.
-
----
-
-## 19 August
-### [Simine Vazire](https://www.simine.com/) (University of Melbourne)
-### Journal prestige can and should be earned
-
-With prominent threats to trust in science around the world, it is especially important to make clear why scientific institutions, including journals, are worthy of trust. Too often, journals’ reputations are unearned—based on flawed metrics such as impact factors, or simply the inertia of prestige. But journal prestige can and should be earned. Journals that invest in and facilitate both pre- and post-publication quality checks, error detection, and correction are the ones that deserve the most trust, and the most prestige.
+Metaphysics-phobia is rife in ethics and political philosophy. Rawls for example claims that his conception of justice is “political not metaphysical”. That orientation of the field has favoured conceptions of ethics as fundamentally about evolved customs, or “traffic rules for self-assertors” (Annette Baier), rather than views that take ethics to be seriously answerable to something in the way things are. The talk argues that foundational studies in (human) ethics should take metaphysics seriously, especially the extensive theories of supervenience (or grounding). A fundamental concept in ethics is the worth of persons – surely the main reason why murder is wrong is the terminal harm to the victim, and harm is a concept that implies the worth of the entity harmed. Worth is argued to be a metaphysically and ethically strong concept, grounded (in the metaphysicians’ sense) in properties of the human person that are not themselves ethical (classically, rationality, but modern sensibilities favour a wider base including, for example, the will, love, individuality …).
 
 ---
 
-## 26 August
-### [Adam Hochman](https://researchers.mq.edu.au/en/persons/adam-hochman) (Macquarie University)
-### Is “Race” Change Possible? 
+## 10th March
+### [Penny van Bergen](https://scholars.uow.edu.au/penny-van-bergen) (University of Wollongong)
+### 
 
-This talk explores the metaphysical possibility of “transraciality.” Most philosophers working on this topic have adopted a social form of what Charles Mills calls objectivism about race. They have argued that transraciality is currently impossible on this basis. I argue that—as Mills himself maintained—social objectivism actually allows for “transraciality,” but that objectivists will be unable to determine the true “race” of many individuals. I compare social objectivist approaches to “transraciality” to the approach entailed by reconstructionist anti-realism about race. For reconstructionists, transraciality is impossible. However, one can racialize oneself differently at different points throughout one’s life, and in different contexts, and some—intentionally or not—end up racialized differently by others. I make the case that, when it comes to the topic of “transraciality,” anti-realist reconstructionism is more explanatory from a theoretical perspective and more desirable from an ethical perspective than social objectivism about race.
-
----
-
-## 2 September
-### [Marc Cheong](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong) (University of Melbourne) 
-### From (red) pandas* to vibe coding: building software for/by/with philosophers
-
-Software packages to build networks, analyse corpora, and make informative graphics are no longer in the exclusive domain of data scientists. From experimental philosophy, to social epistemology, to philosophy of fame-and-celebrity, philosophers and cross-disciplinary researchers increasingly find utility in these packages. Making software open source is common practice, allowing people to build on existing studies, for the public good. In this talk, I will discuss my experiences building, maintaining, testing, and deploying these packages with colleagues at the Digital Trust Lab. This ranges from the exciting (launching a Python package any philosopher can install in less than 20 seconds), to the mind-numbing (having to create a myriad of test cases and documentation for adding one single piece of functionality!), to the pedantic (not updating a code base without following a series of audits). More importantly, I will discuss challenges and considerations on different approaches to take, tradeoffs between complexity/explainability and accuracy, and the kettle of fish that is Generative AI and "vibe coding". * pandas is a common Python library, which, sadly, leaves me red in the face every time I use the wrong syntax.
 
 ---
 
-## 9 September
-### [Elena Walsh](https://scholars.uow.edu.au/elena-walsh) (University of Wollongong)
-### Chatbot companions and the new ‘talking cure’
+## 17 March
+### [Sam Shpall](https://www.sydney.edu.au/arts/about/our-people/academic-staff/sam-shpall.html) (University of Sydney)
+###  
 
-As large language models (LLMs) like ChatGPT become deeply embedded in everyday life, users are increasingly turning to them for emotional support. This talk explores this development. It compares the function of chatbot-based therapies against traditional models of psychotherapy, and situates their appeal in context of a global mental health crisis, unequal access to mental healthcare, rising social isolation, and lives increasingly dominated by virtual modes of interaction. It focuses on a key criterion for therapeutic value: the capacity to balance empathic mirroring with, when necessary, a critical or confrontational stance. While LLMs excel at the former, they appear structurally limited in performing the latter, reflecting a broader and well-documented tendency for LLMs to reinforce the status quo, rather than question it. The talk concludes with initial reflections on the potential benefits and risks of these systems in the context of mental healthcare, the kinds of regulatory oversight they may require, and their capacity to both support and disrupt existing and dominant modes of interpersonal engagement.
+
+---
+
+## 24th March
+### [Adam Piovarchy](https://adampiovarchy.com/) (Notre Dame) 
+### 
+
+
+---
+
+## 31st March
+### [Brian Ballsun-Stanton](https://researchers.mq.edu.au/en/persons/brian-ballsun-stanton/) (Macquarie University)
+### An Absence of Judgment: AI’s Limitations in Deep Research tasks
+
+This paper introduces the concept of "technoscholasticism" to analyse fundamental limitations in AI research tools. Through autoethnographic investigation of frontier models deployed in February 2025, we demonstrate that these systems, despite claims of "agentic" capabilities, lack three crucial dimensions of judgment: epistemic humility, inductive capacity, and correspondence with reality. Like medieval scholastics, these tools privilege textual authority over critical assessment of knowledge claims, explaining their inability to generate novel insights despite vast information access. While acknowledging potential "mundane utility" for specific research tasks, we propose architectural and methodological requirements for more effective research tools that acknowledge these inherent constraints and integrate human judgment at critical junctures. These findings contribute to both theoretical understanding of AI epistemology and practical approaches to scholarly tool design.
 
 ---
 
 ## 16 September
-### [Caroline West](https://www.sydney.edu.au/arts/about/our-people/academic-staff/caroline-west.html) (University of Sydney)
-### Happiness as a psychological good 
 
-Theories of happiness generally divide into those that analyse ‘happiness’ as a purely descriptive psychological term, and those that take ‘happiness’ to be an evaluative term roughly synonymous with ‘leading a good life.’ I argue that happiness is most accurately and usefully analysed as a fusion of these. Specifically, happiness is the psychological state, whatever it is, that we ought to seek for its own sake. Substantive first-order debates about the nature of happiness are then best understood as implicit disputes about exactly which of a range of semantically eligible states individuals have most prudential reason to pursue. I argue that this may vary (somewhat) from individual to individual and hence that happiness is differentially realizable: the nature of happiness may differ (somewhat) from person to person. This contrasts with orthodox ‘circumscriptionist’ analyses, according to which there is just one way to be happy.
+**[No meeting - Mid-semester break]**
 
 ---
 
 ## 23 September
 
-**[No meeting - Mid-semester break]**
+
 
 ---
 
