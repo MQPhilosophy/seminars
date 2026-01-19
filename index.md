@@ -2,7 +2,7 @@
 
 ## 24th February
 ### [Toby Handfield](https://tobyhandfield.com/) (Monash)
-### 
+### TBC
 
 ---
 
@@ -16,21 +16,21 @@ Metaphysics-phobia is rife in ethics and political philosophy. Rawls for example
 
 ## 10th March
 ### [Penny van Bergen](https://scholars.uow.edu.au/penny-van-bergen) (University of Wollongong)
-### 
+### TBC
 
 
 ---
 
 ## 17 March
 ### [Sam Shpall](https://www.sydney.edu.au/arts/about/our-people/academic-staff/sam-shpall.html) (University of Sydney)
-###  
+### TBC 
 
 
 ---
 
 ## 24th March
 ### [Adam Piovarchy](https://adampiovarchy.com/) (Notre Dame) 
-### 
+### TBC
 
 
 ---
@@ -43,49 +43,41 @@ This paper introduces the concept of "technoscholasticism" to analyse fundamenta
 
 ---
 
-## 16 September
+## 7th April
 
 **[No meeting - Mid-semester break]**
 
 ---
 
-## 23 September
-
-
-
----
-
-## 30 September
+## 14th April
 
 **[No meeting - Mid-semester break]**
 
 ---
 
-## 7 October
-### [Christopher Lean](https://christopherhlean.weebly.com/) (Macquarie University)
-### Maintaining an ethical asymmetry between conserving and creating biodiversity
-
-Environmental conservation as a practice and philosophy has been implicitly and explicitly backward-looking. It is the act of preserving, conserving, restoring, and maintaining the features of the biotic world we inherit. Increasingly, this bias has been confronted by anthropogenic environmental change and increasing capacity to address existential environmental risk with technology. There has been a call to re-evaluate and support the practice of creating new ecological arrangements (novel ecosystems) and to incorporate the value of engineered biotic novelty (novel biodiversity). This paper confronts the question of what, in principle, could justify a bias in value towards preserving biodiversity over creating biodiversity. I present two related, but ultimately independent, arguments for this position. First, I will consider methodological reasons towards preserving environmental value from axiology. There are a range of reasons that value conserved has been considered preferable to value created, beyond an unguided dispositional status quo bias (Cohen 2011; Brennan & Hamlin 2016). I argue the processes and products of deep history instantiate features that warrant asymmetrical valuation. Second, I present a reconsidered version of ‘authenticity’ as a justification for preserving biodiversity (Katz 2022). Under my presentation, authenticity refers to the evolved entanglement and interdependency of lineages and gene lineages. These interdependencies should be valued epistemologically and aesthetically.
+## 21st April
+### [Kate Lynch](http://www.katelynch.net/) (University of Melbourne)
+### TBC
 
 ---
 
-## 14 October
-### [Cristian Larroulet Philippi](https://www.cai.cam.ac.uk/people/dr-cristian-larroulet-philippi) (University of Melbourne)
+## 28th April
+### [Clayton Littlejohn](https://www.acu.edu.au/research-and-enterprise/our-research-institutes/institute-for-religion-and-critical-inquiry/our-people/clayton-littlejohn) (ACU)
+### TBC
+
+---
+
+## 5th May
+### [Bronwyn Finnigan](https://researchportalplus.anu.edu.au/en/persons/bronwyn-finnigan/) (ANU)
 ### Quantifying the human
 
-Quantitative measurement in the human sciences remains both widespread and controversial. Are depression scales, intelligence tests, etc. valid measurement instruments? Do they deliver quantitative or merely ordinal information? I discuss two approaches for understanding practices of quantitative measurement of theoretical attributes. One uses causal notions to characterize dispositional attributes and to understand how they relate to measurement indications. It aims at standard epistemic desiderata in science (discovery, explanation, prediction) and offers good answers to traditional worries about human attributes (namely, are they really quantitative?) and about their measurement instruments (namely, are they valid?). A second approach uses the notion of value(as in Dan Hausman's 2015 Valuing Health) to make sense of quantification practices. This approach does not resemble what scientists think of their measurement practices: it is not designed for the testing of tentative concepts but rather to standardize political decision making. Yet, I argue, this approach is the most plausible candidate for making sense of some human sciences’ measurement practices as quantifying anything. Such is the case for measurements that (i) combine distinct dimensions of the phenomena at stake and (ii) for which we don’t observe serious efforts aiming at embedding such measurements in predictive and explanatory networks. I illustrate with two examples: depression severity (HAMD) and the Human Development Index (HDI).
-
 ---
 
-## 21 October
-### Wendy Lipworth & Anson Fehross (Macquarie University)
-### Knowledge-When: Patient Perspectives of Epistemic Authority
+## 12th May
+### [Kael McCormack] (https://philpeople.org/profiles/kael-mccormack) (University of Geneva)
+### Pursuing the Good, Moved by the Good: How Desires Motivate
 
-The epistemology of Evidence-Based Medicine (EBM) has traditionally privileged two forms of knowing: the propositional ‘knowledge-that’ derived from systematic reviews and trial data, and the clinician’s practical ‘knowledge-how’. While patient values have been appended to this model, they are typically framed as ethical preferences, serving to guide our practical responses. Our qualitative research into experimental stem-cell therapies, however, suggests that some members of the public harbour an alternative view.
-
-A sizeable minority of our sample appeal to a third, unrecognised form of purported knowledge. We term this ‘knowledge-when’: a capacity to determine when it the evidence is sufficient to move from clinical trials to common practice. In our interviews, participants grounded this claim not in an understanding of statistical evidence, nor in terms of being willing to accept risk, but in the lived experience of their condition—a form of knowing we call ‘nosomathia’. This represents a claim not just to know when it is worth taking a particular risk, but also when there is evidence of risk.
-
-Our presentation will attempt to take this claim seriously, noting that doing so would require reconfiguring EBM’s epistemic architecture to accommodate ‘knowledge-when’ alongside ‘knowledge-that’ and ‘knowledge-how’. This would position the patient as an arbiter of epistemic standards, alongside their expanded role as a part of designing the practicalities of research programmes. As we will show, even if one is not inclined to accept the particular epistemology that serves to undergird their responses, such a view does raise interesting questions as to how evidentiary standards ought to be understood in this domain.
+Desires have a puzzling dual character. In one sense, desires are passive. Desires are spontaneous, and not the result of reasoning or voluntary choice. The experience of desiring is spontaneous: I find myself moved to acquire the object of desire. Desires look like a constraint on agency. Yet, in another sense, desires are active. My desire is not something separate from me and I don’t simply observe it as an inner event. Rather, the desire consists of my moving myself in pursuit of the object of my desire. Desires look like an exercise of agency. So, my desire is both a constraint on my agency and an exercise of my agency: what simply happens to me is something I do. How is the dual character of desire possible? I explore several possible answers that attempt to “split” the self into two, or the event of desiring into two mental states, or the intentionality of desires into two distinct relations. I use this discussion to motivate my own preferred view that explains the duality of desire in terms of a more fundamental unifying factor. On this view, the active and passive dimensions of desires result from a discrimination of value.
 
 ---
 
