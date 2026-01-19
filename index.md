@@ -74,7 +74,7 @@ This paper introduces the concept of "technoscholasticism" to analyse fundamenta
 ---
 
 ## 12th May
-### [Kael McCormack] (https://philpeople.org/profiles/kael-mccormack) (University of Geneva)
+### [Kael McCormack](https://philpeople.org/profiles/kael-mccormack) (University of Geneva)
 ### Pursuing the Good, Moved by the Good: How Desires Motivate
 
 Desires have a puzzling dual character. In one sense, desires are passive. Desires are spontaneous, and not the result of reasoning or voluntary choice. The experience of desiring is spontaneous: I find myself moved to acquire the object of desire. Desires look like a constraint on agency. Yet, in another sense, desires are active. My desire is not something separate from me and I don’t simply observe it as an inner event. Rather, the desire consists of my moving myself in pursuit of the object of my desire. Desires look like an exercise of agency. So, my desire is both a constraint on my agency and an exercise of my agency: what simply happens to me is something I do. How is the dual character of desire possible? I explore several possible answers that attempt to “split” the self into two, or the event of desiring into two mental states, or the intentionality of desires into two distinct relations. I use this discussion to motivate my own preferred view that explains the duality of desire in terms of a more fundamental unifying factor. On this view, the active and passive dimensions of desires result from a discrimination of value.
