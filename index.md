@@ -30,8 +30,11 @@ Metaphysics-phobia is rife in ethics and political philosophy. Rawls for example
 
 ## 24th March
 ### [Adam Piovarchy](https://adampiovarchy.com/) (Notre Dame) 
-### TBC
+### Conspiracy Theories and the Ways of Bayes
 
+Is there something epistemically defective about conspiracy theories as a class? Generalists argue there is something about conspiracy theories that makes them generally unjustified, unlikely, or less credible than other kinds of explanations. Particularists, in contrast, deny this. Because many conspiracy theories are true, just as many non-conspiracy theories are false, we should evaluate individual conspiracy theories according to the evidence for each. This paper argues for a defeasible generalism by taking a closer look at what would count as strong evidence for or against a conspiracy theory. Using Bayes’ theorem, I illustrate how several argumentative moves made by both conspiracy theorists and particularists incur significant costs that are often overlooked. The ease with which conspiracy theories’ content lends themselves to these moves leads people to misunderstand when they have evidence for a conspiratorial hypothesis. Scepticism of conspiracy theories is thus generally warranted as a corrective to their tendency to be misleadingly convincing. 
+
+Please note: this talk assumes some familiarity with Bayes' theorem; any popular YouTube explainer will suffice.
 
 ---
 
