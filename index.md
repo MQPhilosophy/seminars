@@ -17,7 +17,7 @@ Metaphysics-phobia is rife in ethics and political philosophy. Rawls for example
 ---
 
 ## 10th March
-### [Penny van Bergen](https://scholars.uow.edu.au/penny-van-bergen) (University of Wollongong)
+### TBC
 ### TBC
 
 
