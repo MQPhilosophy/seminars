@@ -86,7 +86,7 @@ Desires have a puzzling dual character. In one sense, desires are passive. Desir
 ---
 
 ## 19th May
-### [Millicent Churcher](https://staff.acu.edu.au/Staff%20directory?Millicent-Churcher) (Australian Catholic University)
+### TBC
 ### TBC
 
 
