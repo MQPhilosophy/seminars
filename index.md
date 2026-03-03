@@ -24,8 +24,9 @@ Metaphysics-phobia is rife in ethics and political philosophy. Rawls for example
 
 ## 17 March
 ### [Sam Shpall](https://www.sydney.edu.au/arts/about/our-people/academic-staff/sam-shpall.html) (University of Sydney)
-### TBC 
+### Limerence and the Relationship Escalator  
 
+Limerence is a distinctive human experience, widely but misleadingly described as "being in love." Drawing on the psychological work of Dorothy Tennov (1979), I sketch a phenomenological account of this experience, and note that some intriguing questions about its prevalence naturally arise. I then use this account to develop a new analysis of the "Relationship Escalator," a concept that figures prominently in recent writing on ethical non-monogamy. My goal is to illuminate a network of assumptions linking limerence, romantic love, monogamy, and parenting — assumptions that rest on a persistent confusion between limerence and romantic love — and to explore what follows once that confusion is dispelled. The results cut in different directions: some prevailing ideas deserve to be abandoned, while others, including a neglected argument connecting limerence and monogamy, deserve a sympathetic hearing.
 
 ---
 
