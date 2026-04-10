@@ -62,7 +62,9 @@ This paper introduces the concept of "technoscholasticism" to analyse fundamenta
 
 ## 21st April
 ### [Kate Lynch](http://www.katelynch.net/) (University of Melbourne)
-### TBC
+### Sentience and Flexible Behaviour (joint work with Thomas E. White)
+
+One way to make inferences about animal sentience is through behaviour. Pain is a key focus of this research, where attempts are made to distinguish conscious pain-related behaviours from unconscious automatic ones.  Seemingly unconscious behaviours described as ‘merely nociceptive’ are typically characterised as reflexive, whereas those taken to indicate a subjective experience of pain are cast as ‘flexible’. But to date, no satisfactory account has been given of what qualifies as sufficient behavioural flexibility to indicate sentience, or even what behavioural flexibility precisely entails. In this talk I (we) suggest that measurable behavioural flexibility is not a single capacity, but a multi-dimensional construct. Different behavioural assays tend to track different dimensions of behavioural flexibility. By integrating these, behavioural flexibility profiles can be developed across taxa, revealing a more nuanced approach to investigating sentience through a behavioural lens.
 
 ---
 
