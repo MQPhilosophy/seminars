@@ -1,4 +1,4 @@
-<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/f04aa9d6-e150-46fb-bca1-2ce0f0b8c8e2" /># Schedule for Semester 1, 2026 
+# Schedule for Semester 1, 2026 
 
 ## 24th February
 ### [Toby Handfield](https://tobyhandfield.com/) (Monash)
