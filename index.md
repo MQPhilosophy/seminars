@@ -1,4 +1,4 @@
-# Schedule for Semester 1, 2026 
+<img width="468" height="14" alt="image" src="https://github.com/user-attachments/assets/f04aa9d6-e150-46fb-bca1-2ce0f0b8c8e2" /># Schedule for Semester 1, 2026 
 
 ## 24th February
 ### [Toby Handfield](https://tobyhandfield.com/) (Monash)
@@ -91,8 +91,10 @@ Desires have a puzzling dual character. In one sense, desires are passive. Desir
 ---
 
 ## 19th May
-### TBC
-### TBC
+### [Paul Podosky](https://researchers.mq.edu.au/en/persons/paul-mikhail-catapang-podosky/) (Macquarie University)
+### Reverence and Veneration
+
+Encounters with extraordinary excellence are not always aspirational. Sometimes they are arresting. I argue that a distinctive class of non-emulative responses to perceived excellence is best understood not as admiration but as a different emotion altogether: reverence. Unlike admiration, which responds to excellence within the subject’s operative sense of human possibility, reverence arises when excellence appears to exceed it entirely. It naturally invites not praise but veneration. Attending to reverence and veneration matters because, unlike admiration and praise, their interplay under conditions of misplacement can unjustifiably foreclose possibilities for self-improvement and constitute a form of self-harm.
 
 
 ---
