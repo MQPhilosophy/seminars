@@ -61,16 +61,18 @@ This paper introduces the concept of "technoscholasticism" to analyse fundamenta
 ---
 
 ## 21st April
-### [Kate Lynch](http://www.katelynch.net/) (University of Melbourne)
+### [Kate Lynch](http://www.katelynch.net/) (University of Sydney)
 ### Sentience and Flexible Behaviour (joint work with Thomas E. White)
 
 One way to make inferences about animal sentience is through behaviour. Pain is a key focus of this research, where attempts are made to distinguish conscious pain-related behaviours from unconscious automatic ones.  Seemingly unconscious behaviours described as ‘merely nociceptive’ are typically characterised as reflexive, whereas those taken to indicate a subjective experience of pain are cast as ‘flexible’. But to date, no satisfactory account has been given of what qualifies as sufficient behavioural flexibility to indicate sentience, or even what behavioural flexibility precisely entails. In this talk I (we) suggest that measurable behavioural flexibility is not a single capacity, but a multi-dimensional construct. Different behavioural assays tend to track different dimensions of behavioural flexibility. By integrating these, behavioural flexibility profiles can be developed across taxa, revealing a more nuanced approach to investigating sentience through a behavioural lens.
 
 ---
 
-## 28th April
+## 28th April (Online only)
 ### [Clayton Littlejohn](https://www.acu.edu.au/research-and-enterprise/our-research-institutes/institute-for-religion-and-critical-inquiry/our-people/clayton-littlejohn) (ACU)
-### TBC
+### Disinformation and Choice
+
+Philosophers working on disinformation seem to agree that it should be understood in epistemic terms (e.g., as a tool for inducing false belief, as a device for increasing confidence in falsehoods, etc.). In congressional reports, the US State Department endorses a similar definition but also says that disinformation is any (non-propagandistic) content that can be used to gain a strategic advantage. What's the relationship between disinformation seen as a tool for manipulating belief and disinformation as a tool for influencing choice? I shall argue that there isn't one. When agents have interests that aren't aligned, one might try to gain strategic advantage over the other using deception, but it is naive to think that this is their only rational play. A disinformant can change the available information in ways that will be strategically advantageous without inducing any discernible epistemic harm upon their adversaries. I shall argue that we should understand disinformation in pragmatic terms and show that this approach lets us identify harmful uses of content that pose significant threats to democracies and to consumers that the prevailing epistemic approaches miss.
 
 ---
 
