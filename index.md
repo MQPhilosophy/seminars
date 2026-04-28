@@ -78,7 +78,13 @@ Philosophers working on disinformation seem to agree that it should be understoo
 
 ## 5th May
 ### [Bronwyn Finnigan](https://researchportalplus.anu.edu.au/en/persons/bronwyn-finnigan/) (The Australian National University)
-### TBC
+### Conventional or emergent persons? Navigating a dispute in Abhidharma Buddhism
+
+This talk engages a growing debate in contemporary Buddhist philosophy concerning how to understand the Buddha’s teaching that there is no-self. One of the most influential approaches is Buddhist reductionism, which explains a person entirely in terms of a reduced base of causally connected psychophysical elements. More recently, however, some scholars have argued that this teaching is compatible with an emergentist view, according to which the person is not a separate entity but arises from the complex interactions of psycho-physical processes. This emergentist approach is often presented as an improvement on reductionism. Critics argue that reductionist views are both circular and unable to account for key features of personal identity. In response, reductionists maintain that their account can explain these features, while contending that emergentist accounts introduce unnecessary ontological commitments. 
+
+This talk situates the contemporary debate within an important historical dispute between mainstream Abhidharma - represented by Vasubandhu - and the Pudgalavāda school, which defended the idea that a person (pudgala) is something over and above a mere collection of parts. I begin by outlining the core commitments of mainstream Abhidharma and introducing two challenges that motivate emergentist reconstructions of Pudgalavāda: the circularity objection and the explanatory insufficiency objection. 
+
+I then examine how mainstream Abhidharma, as well as its contemporary reductionist defenders, might respond. I argue, first, that Vasubandhu advances a burden-of-proof argument against the strong emergence of persons and, second, that his framework provides resources for resisting the circularity objection. However, I suggest that this approach remains vulnerable to the explanatory insufficiency objection. I conclude by outlining two ways in which mainstream Abhidharma might be developed in response: one that concedes a form of weak emergence, and another that appeals to a more sophisticated account of the dependent relations operative at the reductive base of persons. Revisiting this historical debate helps clarify the limits of both reductionist and emergentist approaches, and demonstrates how classical Buddhist philosophy can continue to inform and sharpen contemporary discussions of no-self and personal identity.
 
 ---
 
