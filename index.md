@@ -87,7 +87,7 @@ This talk situates the contemporary debate within an important historical disput
 ---
 
 ## 12th May
-### [Kael McCormack](https://philpeople.org/profiles/kael-mccormack) (University of Geneva)
+### [Kael McCormack](https://philpeople.org/profiles/kael-mccormack) (UNSW)
 ### Solving the Paradox of Passion
 
 Our ordinary conception of desire involves two intuitions that produce a paradox Tamar Schapiro (2014, 131) has called “the paradox of passion.” On the first intuition, my desire for X is a constraint on agency; I am subject to my desire. On the second, my desire for X is an exercise agency; I enact my desire. How could a desire be at once a constraint on, and an exercise of, agency? I dissolve the paradox by showing how these intuitions are consistent. I say that a desire for X results from an exercise of a capacity to discriminate value. I am subject to my desire because this capacity is spontaneous, involuntary, and determined by extra-mental factors. Yet, I enact my desire because this capacity is a personal-level mental activity and a way of responding to reasons. Desiring is both a constraint on agency and an exercise of agency because it is a basic way of rationally taking in the world, much like perception.  
