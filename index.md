@@ -105,7 +105,10 @@ Encounters with extraordinary excellence are not always aspirational. Sometimes 
 
 ## 26th May
 ### [William Tuckwell](https://arts-ed.csu.edu.au/research/research-groups/paper/team/profiles/members/william-tuckwell) (Charles Sturt University)
-### TBC
+### Virtue Signalling in the Classroom
+
+Recent survey data (Romm & Waldman 2025) suggests that university students often project ideological alignment with their classmates and professors in order to succeed socially and academically. In other words, university students virtue signal in the classroom. In this paper, I set out to answer three questions: (1) What, if anything, is distinctive about classroom virtue signalling? (2) What are the impacts of classroom virtue signalling on the goals of university education? (3) What, if anything, should be done about classroom virtue signalling? In response to (1), I identify several features that are distinctive of classroom virtue signalling, given the institutional context in which it takes place. In response to (2), I argue that classroom virtue signalling compromises three commonly endorsed educational goals: the acquisition of epistemic goods, the cultivation of autonomy, and the cultivation of intellectual virtues. In response to (3), I argue that both lecturers have an all-things-considered duty to disrupt classroom virtue signalling so that the educational goals of universities can be better realised.
+
 
 ---
 
