@@ -46,7 +46,7 @@ Modern AI systems can produce works which at least seem as creative as those pro
 ---
 
 ## 15th September
-### [Paul Griffiths]() (Macquarie University)
+### [Paul Griffiths](https://profiles.sydney.edu.au/paul.griffiths) (University of Sydney)
 ### 
 
 ---
