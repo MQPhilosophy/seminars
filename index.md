@@ -38,84 +38,63 @@ Modern AI systems can produce works which at least seem as creative as those pro
 ### 
 
 
+---
+
+## 8th September
+### [Matt Simms]() (Macquarie University)
+### 
 
 ---
 
-## 31st March
-### [Brian Ballsun-Stanton](https://researchers.mq.edu.au/en/persons/brian-ballsun-stanton/) (Macquarie University)
-### An Absence of Judgment: AI’s Limitations in Deep Research tasks
-
-This paper introduces the concept of "technoscholasticism" to analyse fundamental limitations in AI research tools. Through autoethnographic investigation of frontier models deployed in February 2025, we demonstrate that these systems, despite claims of "agentic" capabilities, lack three crucial dimensions of judgment: epistemic humility, inductive capacity, and correspondence with reality. Like medieval scholastics, these tools privilege textual authority over critical assessment of knowledge claims, explaining their inability to generate novel insights despite vast information access. While acknowledging potential "mundane utility" for specific research tasks, we propose architectural and methodological requirements for more effective research tools that acknowledge these inherent constraints and integrate human judgment at critical junctures. These findings contribute to both theoretical understanding of AI epistemology and practical approaches to scholarly tool design.
+## 15th September
+### [Paul Griffiths]() (Macquarie University)
+### 
 
 ---
 
-## 7th April
+## 22nd September
 
 **[No meeting - Mid-semester break]**
 
 ---
 
-## 14th April
+## 29th September
 
 **[No meeting - Mid-semester break]**
 
 ---
 
-## 21st April
-### [Kate Lynch](http://www.katelynch.net/) (University of Sydney)
-### Sentience and Flexible Behaviour (joint work with Thomas E. White)
-
-One way to make inferences about animal sentience is through behaviour. Pain is a key focus of this research, where attempts are made to distinguish conscious pain-related behaviours from unconscious automatic ones.  Seemingly unconscious behaviours described as ‘merely nociceptive’ are typically characterised as reflexive, whereas those taken to indicate a subjective experience of pain are cast as ‘flexible’. But to date, no satisfactory account has been given of what qualifies as sufficient behavioural flexibility to indicate sentience, or even what behavioural flexibility precisely entails. In this talk I (we) suggest that measurable behavioural flexibility is not a single capacity, but a multi-dimensional construct. Different behavioural assays tend to track different dimensions of behavioural flexibility. By integrating these, behavioural flexibility profiles can be developed across taxa, revealing a more nuanced approach to investigating sentience through a behavioural lens.
-
----
-
-## 28th April (Online only)
-### [Clayton Littlejohn](https://www.acu.edu.au/research-and-enterprise/our-research-institutes/institute-for-religion-and-critical-inquiry/our-people/clayton-littlejohn) (ACU)
-### Disinformation and Choice
-
-Philosophers working on disinformation seem to agree that it should be understood in epistemic terms (e.g., as a tool for inducing false belief, as a device for increasing confidence in falsehoods, etc.). In congressional reports, the US State Department endorses a similar definition but also says that disinformation is any (non-propagandistic) content that can be used to gain a strategic advantage. What's the relationship between disinformation seen as a tool for manipulating belief and disinformation as a tool for influencing choice? I shall argue that there isn't one. When agents have interests that aren't aligned, one might try to gain strategic advantage over the other using deception, but it is naive to think that this is their only rational play. A disinformant can change the available information in ways that will be strategically advantageous without inducing any discernible epistemic harm upon their adversaries. I shall argue that we should understand disinformation in pragmatic terms and show that this approach lets us identify harmful uses of content that pose significant threats to democracies and to consumers that the prevailing epistemic approaches miss.
-
----
-
-## 5th May
-### [Bronwyn Finnigan](https://researchportalplus.anu.edu.au/en/persons/bronwyn-finnigan/) (The Australian National University)
-### Conventional or emergent persons? Navigating a dispute in Abhidharma Buddhism
-
-This talk engages a growing debate in contemporary Buddhist philosophy concerning how to understand the Buddha’s teaching that there is no-self. One of the most influential approaches is Buddhist reductionism, which explains a person entirely in terms of a reduced base of causally connected psychophysical elements. More recently, however, some scholars have argued that this teaching is compatible with an emergentist view, according to which the person is not a separate entity but arises from the complex interactions of psycho-physical processes. This emergentist approach is often presented as an improvement on reductionism. Critics argue that reductionist views are both circular and unable to account for key features of personal identity. In response, reductionists maintain that their account can explain these features, while contending that emergentist accounts introduce unnecessary ontological commitments. 
-
-This talk situates the contemporary debate within an important historical dispute between mainstream Abhidharma - represented by Vasubandhu - and the Pudgalavāda school, which defended the idea that a person (pudgala) is something over and above a mere collection of parts. I begin by outlining the core commitments of mainstream Abhidharma and introducing two challenges that motivate emergentist reconstructions of Pudgalavāda: the circularity objection and the explanatory insufficiency objection. I then examine how mainstream Abhidharma, as well as its contemporary reductionist defenders, might respond. In so doing, I hope to clarify the limits of both reductionist and emergentist approaches within a Buddhist framework, and thereby show how Buddhist philosophy can continue to inform and sharpen contemporary discussions of personal identity.
-
----
-
-## 12th May
-### [Kael McCormack](https://philpeople.org/profiles/kael-mccormack) (UNSW)
-### Solving the Paradox of Passion
-
-Our ordinary conception of desire involves two intuitions that produce a paradox Tamar Schapiro (2014, 131) has called “the paradox of passion.” On the first intuition, my desire for X is a constraint on agency; I am subject to my desire. On the second, my desire for X is an exercise agency; I enact my desire. How could a desire be at once a constraint on, and an exercise of, agency? I dissolve the paradox by showing how these intuitions are consistent. I say that a desire for X results from an exercise of a capacity to discriminate value. I am subject to my desire because this capacity is spontaneous, involuntary, and determined by extra-mental factors. Yet, I enact my desire because this capacity is a personal-level mental activity and a way of responding to reasons. Desiring is both a constraint on agency and an exercise of agency because it is a basic way of rationally taking in the world, much like perception.  
-
----
-
-## 19th May
-### [Paul Podosky](https://researchers.mq.edu.au/en/persons/paul-mikhail-catapang-podosky/) (Macquarie University)
-### Reverence and Veneration
-
-Encounters with extraordinary excellence are not always aspirational. Sometimes they are arresting. I argue that a distinctive class of non-emulative responses to perceived excellence is best understood not as admiration but as a different emotion altogether: reverence. Unlike admiration, which responds to excellence within the subject’s operative sense of human possibility, reverence arises when excellence appears to exceed it entirely. It naturally invites not praise but veneration. Attending to reverence and veneration matters because, unlike admiration and praise, their interplay under conditions of misplacement can unjustifiably foreclose possibilities for self-improvement and constitute a form of self-harm.
+## 6th October
+### []() ()
+### 
 
 
 ---
 
-## 26th May
-### [William Tuckwell](https://arts-ed.csu.edu.au/research/research-groups/paper/team/profiles/members/william-tuckwell) (Charles Sturt University)
-### Virtue Signalling in the Classroom
-
-Recent survey data (Romm & Waldman 2025) suggests that university students often project ideological alignment with their classmates and professors in order to succeed socially and academically. In other words, university students virtue signal in the classroom. In this paper, I set out to answer three questions: (1) What, if anything, is distinctive about classroom virtue signalling? (2) What are the impacts of classroom virtue signalling on the goals of university education? (3) What, if anything, should be done about classroom virtue signalling? In response to (1), I identify several features that are distinctive of classroom virtue signalling, given the institutional context in which it takes place. In response to (2), I argue that classroom virtue signalling compromises three commonly endorsed educational goals: the acquisition of epistemic goods, the cultivation of autonomy, and the cultivation of intellectual virtues. In response to (3), I argue that both lecturers have an all-things-considered duty to disrupt classroom virtue signalling so that the educational goals of universities can be better realised.
+## 13th October
+### []() ()
+### 
 
 
 ---
 
-## 2nd June
-### [John Noel Viana](https://researchportalplus.anu.edu.au/en/persons/john-noel-viana/) (The Australian National University)
-### Beyond recruitmentology: demographic reporting, diversifying representation, and dismantling racism in Australian health research
+## 20th October
+### []() ()
+### 
 
-Steven Epstein first proposed the concept of recruitmentology as a “an empirical body of studies scientifically evaluating the efficacy of various social, cultural, psychological, technological, and economic means of convincing people (especially members of ‘hard-to-recruit’ populations) that they want to become, and remain, human subjects”. Applying a recruitmentological lens, I initially intended to examine how racial or ethnic diversity is actualised in Australian health research. However, I eventually realised that recruitment and retention practices constitute just the tip of the iceberg. Drawing from a two-year engagement with a COVID-19 molecular study in Victoria, initial findings from a scoping review on diversity in Australian brain and mental health research, and discourses on the use of the term “CALD” (culturally and linguistically diverse) in Australian publications, I will reflect on other important factors that shape who gets to be represented, and how they are represented, in Australian health research. First, I will give an overview of how several studies present participant demographics, along with how scientists conceive diversity and its relation to study objectives and statistical validity. Second, I will interrogate what representation should look like and forward the need to represent diverse communities not just as participants, but as study partners and researchers. Third, I will reflect on how an anti-racist lens can shed light not just on racist scientific infrastructures and processes that limit diverse recruitment, but also how racially discriminatory social structures and policies can have repercussions on health and biomedical research. Overall, I aim to nuance what it means to achieve racial diversity and equity in health research in contemporary multicultural Australia, accounting for its colonial history and legacy of racially discriminatory immigration policies.
 
+---
+
+## 27th October
+### []() ()
+### 
+
+
+---
+
+## 3rd November
+### []() ()
+### 
+
+
+---
