@@ -1,14 +1,14 @@
-# Schedule for Semester 1, 2026 
+# Schedule for Semester 2, 2026 
 
-## 24th February
-### [Toby Handfield](https://tobyhandfield.com/) (Monash)
-### Modelling Cooperative Dilemmas for Science
+## 4th August
+### [Dominic Murphy](https://profiles.sydney.edu.au/dominic.murphy) (University of Sydney)
+### 
 
-Scientists have complex motivations: pure curiosity, prestige, status, citations, grant dollars, and more. Scientists are also embedded in strategic contexts -- their best choice of research strategy often depends on what other scientists are doing. In this work we develop a model of scientists engaged in a simplified process of inquiry via falsification, and show that even with very simple, primarily epistemic motivations, strategic tensions arise between different scientific groups. This can lead to paradoxical results, where scientists who are more motivated by truth are slower to achieve the true theory than more conservative scientists who are more reluctant to abandon their preferred views. We discuss implications for how scientific communities should balance openness to new evidence against the stability needed for productive research.
+
 
 ---
 
-## 3rd March
+## 11th August
 ### [James Franklin](https://www.unsw.edu.au/staff/james-franklin) (UNSW)
 ### Ethics can't do without metaphysics
 
