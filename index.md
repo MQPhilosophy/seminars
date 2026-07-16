@@ -64,7 +64,7 @@ Modern AI systems can produce works which at least seem as creative as those pro
 ---
 
 ## 6th October
-### [Altheer Alkhalfa]() ()
+### [Altheer Alkhalfa](https://www.atheeralkhalfa.com/) (ACU)
 ### 
 
 
