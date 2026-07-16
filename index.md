@@ -64,35 +64,35 @@ Modern AI systems can produce works which at least seem as creative as those pro
 ---
 
 ## 6th October
-### []() ()
+### [Altheer Alkhalfa]() ()
 ### 
 
 
 ---
 
 ## 13th October
-### []() ()
+### [Jess Whyte](https://www.unsw.edu.au/staff/jessica-whyte) (UNSW)
 ### 
 
 
 ---
 
 ## 20th October
-### []() ()
+### [Millicent Churcher](https://philpeople.org/profiles/millicent-churcher) (ACU)
 ### 
 
 
 ---
 
 ## 27th October
-### []() ()
+### [Dalia Nassar](https://profiles.sydney.edu.au/dalia.nassar) (University of Sydney)
 ### 
 
 
 ---
 
 ## 3rd November
-### []() ()
+### [Michael Kirchhoff](https://scholars.uow.edu.au/michael-kirchhoff) (University of Wollongong)
 ### 
 
 
