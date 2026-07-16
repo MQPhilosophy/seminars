@@ -40,7 +40,7 @@ Modern AI systems can produce works which at least seem as creative as those pro
 ---
 
 ## 8th September
-### [Matt Simms]() (Macquarie University)
+### [Matt Simms](https://matthewsims5.com/) (Cambridge University)
 ### 
 
 ---
