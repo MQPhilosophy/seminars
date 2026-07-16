@@ -9,24 +9,27 @@
 ---
 
 ## 11th August
-### [James Franklin](https://www.unsw.edu.au/staff/james-franklin) (UNSW)
-### Ethics can't do without metaphysics
-
-Metaphysics-phobia is rife in ethics and political philosophy. Rawls for example claims that his conception of justice is “political not metaphysical”. That orientation of the field has favoured conceptions of ethics as fundamentally about evolved customs, or “traffic rules for self-assertors” (Annette Baier), rather than views that take ethics to be seriously answerable to something in the way things are. The talk argues that foundational studies in (human) ethics should take metaphysics seriously, especially the extensive theories of supervenience (or grounding). A fundamental concept in ethics is the worth of persons – surely the main reason why murder is wrong is the terminal harm to the victim, and harm is a concept that implies the worth of the entity harmed. Worth is argued to be a metaphysically and ethically strong concept, grounded (in the metaphysicians’ sense) in properties of the human person that are not themselves ethical (classically, rationality, but modern sensibilities favour a wider base including, for example, the will, love, individuality …).
-
----
-
-## 10th March
-### No seminar this week
+### []() ()
+### 
 
 
 ---
 
-## 17 March
-### [Sam Shpall](https://www.sydney.edu.au/arts/about/our-people/academic-staff/sam-shpall.html) (University of Sydney)
-### Limerence and the Relationship Escalator  
+## 18th August
+### [Raphaël Millière](https://raphaelmilliere.com/) (University of Oxford)
+###
 
-Limerence is a distinctive human experience, widely but misleadingly described as "being in love." Drawing on the psychological work of Dorothy Tennov (1979), I sketch a phenomenological account of this experience, and note that some intriguing questions about its prevalence naturally arise. I then use this account to develop a new analysis of the "Relationship Escalator," a concept that figures prominently in recent writing on ethical non-monogamy. My goal is to illuminate a network of assumptions linking limerence, romantic love, monogamy, and parenting — assumptions that rest on a persistent confusion between limerence and romantic love — and to explore what follows once that confusion is dispelled. The results cut in different directions: some prevailing ideas deserve to be abandoned, while others, including a neglected argument connecting limerence and monogamy, deserve a sympathetic hearing.
+
+---
+
+## 25th August
+### [Tom Montefiore](https://researchers.mq.edu.au/en/persons/tom-montefiore/) (Macquarie University)
+### [Darius Parvizi-Wayne](https://scholar.google.com/citations?user=ahuMDH4AAAAJ&hl=en) (Macquarie University)
+### Creativity and Proximal Intentions: Rethinking the Intentionality Criterion for Creativity in Humans and AI
+
+Modern AI systems can produce works which at least seem as creative as those produced by humans. It is therefore unsurprising that the question of whether AI systems can be genuinely creative has emerged. A common approach is to appeal to the absence of distal intentions in order to reject AI creativity, but we argue that the activation and fulfilment of distal intentions is neither necessary for creativity, nor sufficient for the type of intentionality needed for genuine creativity. Instead, we develop an alternative focus on proximal intentions, the activation and fulfilment of which is necessary for genuine creativity, and sufficient for the type of intentionality needed for genuine creativity. Further, we show that the relevant proximal intentions need not be held overtly in the mind during the creative process but can also be held subdoxastically. Finally, we argue that AI systems do not possess proximal intentions and therefore cannot be genuinely creative.
+
+
 
 ---
 
