@@ -2,15 +2,15 @@
 
 ## 4th August
 ### [Dominic Murphy](https://profiles.sydney.edu.au/dominic.murphy) (University of Sydney)
-### 
+### Social construction, social causation and social meaning
 
-
+Sally Haslanger (1995) influentially distinguished between causal and constitutive varieties of social construction. According to her, something is socially causally constructed iff social factors play a causal role in bringing it into existence or, to some substantial extent, in its being the way it is. But setting things issue up like this makes pretty much everything in recorded history into a social construction because almost everything has some social causes. I think this makes the idea of social construction uninformative. I will consider some ways of differentiating between social construction proper and the effects of social processes considered more generically. I will also make a case for recognising a further category: social meaning, seen as the interpretation by a culture of existing phenomena regardless of their causes. So just as a natural phenomenon can be open to interpretation, something can be  both a social construction and also open to further interpretation and contest
 
 ---
 
 ## 11th August
-### []() ()
-### 
+
+**[No meeting]**
 
 
 ---
