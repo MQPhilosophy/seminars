@@ -49,7 +49,9 @@ Colombetti (2005) has challenged the standard dichotomous conceptualisation of a
 
 ## 15th September
 ### [Paul Griffiths](https://profiles.sydney.edu.au/paul.griffiths) (University of Sydney)
-### 
+### Biological sexes are life-history stages
+
+Biologists define sex by ‘anisogamy’ - “The biological definition of the two sexes is simple: biologically, the female sex is defined as the adult phenotype that produces the larger gametes in anisogamous systems, while the male sex is the adult phenotype that produces the smaller gametes.” (de Vries and Lehtonen 2023, 928).  After noting some ways in which this definition has been misunderstood in the philosophical literature, this paper defends three claims about biological sexes defined by anisogamy. First, sexes are life-history stages: collections of phenotypic traits which implement a stage in an evolved life-history strategy. This is most obvious in sequential hermaphrodites, but is equally true of species that only develop one sex during their life cycle. Second, sex-determination is a process. The operation of a ‘sex determination mechanism’ does not instantly create a sexual phenotype. Sex determination mechanisms initiate developmental processes that result in the development of one or more sexual phenotypes later in the life-cycle. Third, because sex determination is an extended developmental process many factors can interfere with it, and some biological individuals do not follow the standard patterns of sexual development in their species. In some cases there is no strictly biological rationale for describing the resulting ‘idiosyncratic’ phenotype as male, female or hermaphrodite. Biology can explain why development has departed from a typical life-cycle but when asked for the ‘real’ biological sex of the individual, biology should answer ‘it is what it is'.
 
 ---
 
