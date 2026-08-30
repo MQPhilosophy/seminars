@@ -35,8 +35,9 @@ Modern AI systems can produce works which at least seem as creative as those pro
 
 ## 1st September
 ### [Laura Candiotto](https://centreforethics.upce.cz/en/doc-laura-candiotto-phd) (University of Pardubice) 
-### 
+### Emotional Friction: The ethical significance of affective sense-making
 
+Colombetti (2005) has challenged the standard dichotomous conceptualisation of affective valence (pleasure/pain: Russell 1980, good/bad: Kahneman 1999) showing that emotional experience is much more complex than the classical contrasting of polarised hedonic feelings implies. Drawing on the enactive approach to embodied cognition, I expand the investigation into tensional valence as emotional friction. By emotional friction, I mean a tension between activity and passivity while facing a situation that does not reply to one’s values and existential commitments (Candiotto 2023a, forthcoming, Candiotto & Tempone-Wilthshire, forthcoming). Emotional friction has been introduced in the debate by José Medina (2019) in the context of racial violence and active ignorance. He argued that not just epistemic friction, i.e., disagreements about worldviews and conflicts about beliefs, but emotional friction can be catalysts for “epistemic activism”, i.e., challenging and transforming harmful knowledge practices, also by disrupting complacency. I maintain that to fully appreciate the transformative role of emotional friction, we need to further develop the discussion into its phenomenal character. By diving deeper into emotional friction as a felt sense of vulnerability,  I shed light on the tensional valence that is immanent to bodily feelings. My claim is that emotional friction motivates and constitutes sense-making and, so, has a crucial ethical value in character revision responsibility.
 
 ---
 
