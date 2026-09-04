@@ -43,7 +43,7 @@ Colombetti (2005) has challenged the standard dichotomous conceptualisation of a
 
 ## 8th September
 ### [Matt Simms](https://matthewsims5.com/) (Cambridge University)
-### 
+### The Reflex Beyond Nervous Systems: animal preparations, tropism, and taxis
 
 ---
 
