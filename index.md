@@ -68,9 +68,8 @@ Biologists define sex by ‘anisogamy’ - “The biological definition of the t
 ---
 
 ## 6th October
-### [Altheer Alkhalfa](https://www.atheeralkhalfa.com/) (ACU)
-### 
 
+**[No meeting]**
 
 ---
 
@@ -89,8 +88,8 @@ Biologists define sex by ‘anisogamy’ - “The biological definition of the t
 ---
 
 ## 27th October
-### [Dalia Nassar](https://profiles.sydney.edu.au/dalia.nassar) (University of Sydney)
-### 
+### [Altheer Alkhalfa](https://www.atheeralkhalfa.com/) (ACU)
+###
 
 
 ---
