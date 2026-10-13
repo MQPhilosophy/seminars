@@ -75,8 +75,6 @@ Biologists define sex by ‘anisogamy’ - “The biological definition of the t
 
 ## 13th October [POSTPONED] 
 ### [Jess Whyte](https://www.unsw.edu.au/staff/jessica-whyte) (UNSW)
-### 
-
 
 ---
 
