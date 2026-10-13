@@ -82,8 +82,9 @@ Biologists define sex by ‘anisogamy’ - “The biological definition of the t
 
 ## 20th October
 ### [Millicent Churcher](https://philpeople.org/profiles/millicent-churcher) (ACU)
-### 
+### Good Sex, Redux: Mutual Regard and Sexual Fluency
 
+Good sex – sex that is consensual, welcome, fulfilling, and conducive to one’s flourishing – is both an ethical issue and an issue of justice (Gavey 2005). In this talk I develop two concepts, 'mutual regard' and 'sexual fluency,'  which I take to be promising for thinking through what constitutes good sex and its conditions of possibility. Developing these concepts and exploring how they interrelate brings into focus the consequential (yet oft-overlooked) interplay between imagination, affect, institutions, and wider social imaginaries. I show how this interplay can constrain and enable different groups of sexual actors in highly uneven and problematic ways, and how it troubles existing proposals for scaffolding good sex.
 
 ---
 
