@@ -88,8 +88,9 @@ Good sex – sex that is consensual, welcome, fulfilling, and conducive to one�
 
 ## 27th October
 ### [Altheer Alkhalfa](https://www.atheeralkhalfa.com/) (ACU)
-###
+### Interpreting Al by Trusting it 
 
+I propose a novel account for why the outputs of LLMs are meaningful that is inspired by Lewis’s (1975) work on convention. The account does not require LLMs to have any mental states, such as intentions or beliefs. The account also avoids the problems associated with knowledge-first approaches such as Cappelen and Dever's (2021) approach; problems resulting from the peculiar features of LLMs– such as high enough hallucination rates and various token sampling protocols.
 
 ---
 
