@@ -95,8 +95,9 @@ I propose a novel account for why the outputs of LLMs are meaningful that is ins
 ---
 
 ## 3rd November
-### [Michael Kirchhoff](https://scholars.uow.edu.au/michael-kirchhoff) (University of Wollongong)
-### 
+### [Adam Andreotta](https://www.ajandreotta.com/) (Curtin University)
+### Consent and the Structure of Normative-Power First-Person Authority
 
+Commitment-based theories of self-knowledge hold that individuals can know their attitudes by committing themselves to their contents, rather than by introspective detection. Although these theories focus on belief, desire, and intention, commitment is not confined to attitudes. In consenting, promising, permitting, and authorising, individuals also undertake commitments by exercising normative powers. In this paper, I argue that the literature’s focus on attitudinal commitment has obscured a form of first-person authority that I call “normative-power first-person authority”. Although attitudes like belief and intention may be constituted through commitment, they remain susceptible to explanatory burdens of epistemic error and alienation. Using consent as a central case, I argue that the exercise of consent both constitutes the commitments it expresses and exhibits a form of first-person authority that resists an epistemic framing. Unlike attitudes, consent does not generate the same explanatory burdens of epistemic error or alienation that have shaped the first-person authority literature. Instead, its characteristic failures are practical. One consequence is that epistemic accounts of first-person authority have a principled limit: even if they can account for authority over attitudes, they cannot straightforwardly account for authority exercised through normative powers.
 
 ---
